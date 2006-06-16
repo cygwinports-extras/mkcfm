@@ -1,0 +1,4 @@
+XORG_RELEASE=X11R7.0
+inherit xorg
+
+CYGCONF_ARGS="--with-ciddir=/usr/share/fonts/CID"
