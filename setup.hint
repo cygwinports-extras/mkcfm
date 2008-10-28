@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin libXfont1
-sdesc: "Xorg CID font matrix summary creator"
-ldesc: "Xorg CID font matrix summary creator"
+sdesc: "X.Org CID font matrix summary creator"
+ldesc: "X.Org CID font matrix summary creator"

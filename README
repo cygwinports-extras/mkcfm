@@ -1,6 +1,6 @@
 mkcfm
 ------------------------------------------
-Xorg CID font matrix summary creator
+X.Org CID font matrix summary creator
 
 Runtime requirements:
   cygwin-1.5.20-1
